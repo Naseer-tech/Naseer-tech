@@ -3,7 +3,7 @@
 I'm **M. Naseer**, a first-year ECE student passionate about Embedded Systems, IoT, and Software Development.
 
 - 🔭 Currently working on ESP32, MicroPython, and IoT projects
-- 🌱 Learning Embedded Systems, C, Python, MQTT, and Blynk
+- 🌱 Learning Embedded Systems, C, Python
 - 🤝 Open to collaborating on IoT and Open Source projects
 - 💬 Ask me about ESP32, Wokwi, Python, and IoT
 - ⚡ I enjoy building real-world engineering projects
